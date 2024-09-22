@@ -8,10 +8,22 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Naijanlpsolutions  / Naija NLP Solutions  "
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Naija NLP Solutions "
+description              : &description "Naija NLP Solutions is a cutting-edge artificial intelligence company specializing in Natural Language Processing (NLP) solutions for Nigerian languages. Our mission is to bridge the language gap in Nigeria's digital landscape, enabling businesses and individuals to tap into the country's linguistic diversity.
+
+
+*Focus Areas:*
+
+
+1. Language Modeling: Developing AI-powered language models for Nigerian languages.
+2. Text Analysis: Providing sentiment analysis, entity recognition, and topic modeling.
+3. Speech Recognition: Building speech-to-text systems for Nigerian languages.
+4. Chatbots & Virtual Assistants: Creating conversational interfaces for customer engagement.
+5. Language Translation: Offering machine translation services for Nigerian languages.
+
+"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
